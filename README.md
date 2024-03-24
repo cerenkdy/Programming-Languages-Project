@@ -1,10 +1,3 @@
 # Programming-Languages-Project
 
-⣜⠉⢒⣲⠤⠤⠤⠤⠤⠄⢤⣐⠒⢹⠀⠀⠀⠀
-⣧⠖⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⢦⡸⠀⠀⠀
-⡏⠀⢀⡶⣲⣶⡄⠀⢠⡖⣲⣦⠀⠀⠇⢀⠤⡀
-⡃⠀⠈⠛⠿⠟⠁⠀⠈⠛⠛⠛⠀⠀⡅⡾⠀⡃
-⢈⡢⢄⡀⠀⠀⠀⠉⠉⠀⢀⣀⣴⣊⣰⠃⢸⠀
-⠋⢠⠊⠈⢹⠉⠉⠉⠉⠀⠀⠀⠀⠀⠘⡖⠁⠀
-⠀⠀⠀⠀⠀⡇⠀⠀⡄⠀⠀⡒⢲⡆⠀⢨⠀⠀
-⠀⠀⠀⠀⠀⠘⠤⠔⠑⠤⠜⠊⠀⠑⠊⠀⠀⠀Programming Language: Yippie
+Programming Language: Yippie
